@@ -127,3 +127,10 @@ Thumbs.db
 
 # CMakeFiles
 /CMakeFiles/
+3rdparty/libconfig/libconfig.vcxproj
+3rdparty/yaml-cpp/yaml-cpp.vcxproj
+3rdparty/libconfig/libconfig.vcxproj
+3rdparty/yaml-cpp/yaml-cpp.vcxproj
+src/char/char-server.vcxproj
+src/common/common-minicore.vcxproj
+src/common/common.vcxproj
